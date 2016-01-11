@@ -1,0 +1,18 @@
+1./Nova(Compute)
+Cung cấp khả năng tính toán với những instancs-tương ứng với EC2 của Amazon
+2./KeyStone(Identify)
+Cung cấp khả năng authentication và authorization cho các dịch vụ openstack
+3./Glance(Image Sẻvice) 
+lưu trữ các file ảnh của các instance trước khi được sử dụng bởi Nova
+4./Neutron
+5./Swift(Object Storage)
+Cung cấp khả năng lưu trũ
+6./Horizon(Dashboard)
+cung cấp giao diện web để quản lý OpenStack
+7./Cinder
+***********************************************
+Các thành phần chính của OpenStack
+1-Hôin
+2-Keystone
+3-Nova
+4-Glance
